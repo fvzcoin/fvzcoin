@@ -1199,7 +1199,7 @@ void MapPort(bool)
 
 static const char *strMainNetDNSSeed[][2] = {
     {"coin-base.info", "fvzseed.bitwarez.de"},
-    {"miners-point.com", "fvzseed.fvzcoin.net"},
+    {"miners-point.com", "fvzseed.fvzcoin.com"},
     {NULL, NULL},
 };
 
